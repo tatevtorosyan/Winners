@@ -48,7 +48,7 @@ local.properties
 ######################
 # Intellij
 ######################
-/.idea/workspace.xml
+.idea/workspace.xml
 .idea/**
 *.iml
 *.iws
